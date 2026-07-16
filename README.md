@@ -1,6 +1,6 @@
 <!-- ========= TITLE ========= -->
 
-<h1 align="center">MT CODE ⚡</h1>
+<h1 align="center">⚡ MT CODE ⚡</h1>
 
 <!-- ========= TOP BANNER ========= -->
 
