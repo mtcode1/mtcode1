@@ -1,28 +1,45 @@
-<!-- ========= TOP ========= -->
+<!-- ========= TITLE ========= -->
 
 <h1 align="center">MT CODE ⚡</h1>
 
-<!-- ========= BANNER ========= -->
+<!-- ========= TOP BANNER ========= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=ABOUT%20ME&fontSize=40&fontColor=00ffcc"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=200&section=header&text=BABA&fontSize=45&fontColor=00ffff&animation=fadeIn"/>
 </p>
 
-<!-- ========= TITLE ========= -->
+<!-- ========= ABOUT TITLE ========= -->
 
-<h2 align="center">Who is <span style="color:#00ffcc;">BABA</span>?</h2>
+<h2 align="center">
+  <span style="color:#00ffff;">ABOUT ME</span>
+</h2>
+
+<h1 align="center">
+  Who is <span style="color:#00ffff;">BABA</span>?
+</h1>
 
 <p align="center">Passionate developer from Kishanganj, Bihar</p>
 
-<!-- ========= ROUND GLOW LOGO ========= -->
+---
+
+<!-- ========= 3D NEON LOGO ========= -->
 
 <p align="center">
   <img src="https://i.ibb.co/zhDJFXpZ/IMG-20260716-000423-789.jpg"
-       width="180"
-       height="180"
-       style="border-radius:50%; object-fit:cover;
-       border:5px solid #00ffcc;
-       box-shadow:0 0 20px #00ffcc, 0 0 60px #00ffcc;">
+       width="200"
+       height="200"
+       style="
+       border-radius:50%;
+       object-fit:contain;
+       background:#000;
+       padding:20px;
+       border:3px solid #00ffff;
+       box-shadow:
+         0 0 10px #00ffff,
+         0 0 25px #00ffff,
+         0 0 50px #00ffff,
+         inset 0 0 20px #00ffff;
+       ">
 </p>
 
 ---
@@ -30,17 +47,18 @@
 <!-- ========= ABOUT ========= -->
 
 <h2 align="center">
-I'm <span style="color:#00ffcc;">BABA</span>, Developer & Cyber Security Learner
+I'm <span style="color:#00ffff;">BABA</span>, Developer & Cyber Security Learner
 </h2>
 
 <p align="center">
 
-My name is <b>BABA</b>. I am a passionate programmer and developer from  
-<b>Kishanganj, Bihar, India</b>. I build websites, applications, and learn  
-new technologies every day.  
+My name is <b>BABA</b>. I am a passionate developer from  
+<b>Kishanganj, Bihar, India</b>.  
 
-I believe in creating things that make a real impact.  
-Currently exploring <b>Cyber Security</b> and <b>Ethical Hacking</b>.
+I create modern websites, applications, and automation tools.  
+Currently exploring <b>Cyber Security</b> and <b>Ethical Hacking</b>.  
+
+🚀 I believe in building powerful and useful tech.
 
 </p>
 
@@ -58,7 +76,7 @@ Currently exploring <b>Cyber Security</b> and <b>Ethical Hacking</b>.
 
 ---
 
-<!-- ========= SKILLS (ANIMATED + COLORFUL) ========= -->
+<!-- ========= SKILLS ========= -->
 
 <h2 align="center">⚡ Skills</h2>
 
@@ -67,12 +85,12 @@ Currently exploring <b>Cyber Security</b> and <b>Ethical Hacking</b>.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&center=true&vCenter=true&lines=Full+Stack+Developer;Cyber+Security+Learner;OSINT+Tools+Builder;Automation+Developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&lines=Full+Stack+Developer;Cyber+Security+Learner;Automation+Expert;OSINT+Tools+Builder"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nmap-00ffcc?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Nmap-00ffff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=linux&logoColor=00ffff"/>
   <img src="https://img.shields.io/badge/Anaconda-22c55e?style=for-the-badge&logo=anaconda&logoColor=white"/>
 </p>
 
@@ -85,11 +103,11 @@ Currently exploring <b>Cyber Security</b> and <b>Ethical Hacking</b>.
 <p align="center">
 
 <a href="https://mtcode.netlify.app">
-  <img src="https://img.shields.io/badge/Website-0f2027?style=for-the-badge&logo=google-chrome&logoColor=00ffcc"/>
+  <img src="https://img.shields.io/badge/Website-020024?style=for-the-badge&logo=google-chrome&logoColor=00ffff"/>
 </a>
 
 <a href="https://github.com/mtcode1">
-  <img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=00ffcc"/>
+  <img src="https://img.shields.io/badge/GitHub-020024?style=for-the-badge&logo=github&logoColor=00ffff"/>
 </a>
 
 <a href="https://youtube.com/@mtcode">
@@ -111,5 +129,5 @@ Currently exploring <b>Cyber Security</b> and <b>Ethical Hacking</b>.
 <!-- ========= FOOTER ========= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:090979,100:020024&height=120&section=footer"/>
 </p>
